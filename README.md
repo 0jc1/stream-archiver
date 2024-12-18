@@ -12,6 +12,6 @@
 ---
 
 For future reference:
-[Youtube Auto Archiver]([URL](https://github.com/aziascreations/Youtube-Auto-Archiver))
+[Youtube Auto Archiver](https://github.com/aziascreations/Youtube-Auto-Archiver)
 
 
