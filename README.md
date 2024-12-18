@@ -1,6 +1,6 @@
-# Stream Archiver: Auto Livestream Recorder and Uploader
+# Stream Archiver
 
-**Stream Archiver** is a Python program designed to automatically record, download, and archive livestreams from multiple platforms, ensuring your favorite creators' content is preserved. The bot seamlessly uploads the recorded livestreams to an archival YouTube channel, making it an essential tool for content preservation.
+**Stream Archiver** is a Python bot designed to automatically record, download, and archive livestreams from multiple streaming platforms. The bot automatically uploads the recorded livestreams to an archival YouTube channel.
 
 ---
 
